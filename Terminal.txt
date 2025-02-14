@@ -1,0 +1,17 @@
+// Can refer to this video if a problem occour
+https://youtu.be/0yboGn8errU?si=tB2VheaHye7n-YUn
+
+// To make react project
+npm create vite@latest
+
+// Installing dependencies (npm) - Install latest nvm if needed(ChatGpt may be needed)
+npm install
+
+// To run
+npm run dev
+
+// For using Gemini API
+// node version should be 18+ then type 
+
+npm install @google/generative-ai
+
